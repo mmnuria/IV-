@@ -33,7 +33,7 @@ iniciales.
 | <!-- Enlace de L D C L M C -->                                                                                  |         |           |
 | <!-- Enlace de JLombar -->                                                                                      |         |           |
 | <!-- Enlace de joselopez10014 -->                                                                               |         |           |
-| <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  |           |
+| <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.2  |           |
 | <!-- Enlace de M S C -->                                                                                        |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                               |         |           |
 | <!-- Enlace de N G P -->                                                                                        |         |           |
