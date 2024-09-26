@@ -34,7 +34,7 @@ iniciales.
 | <!-- Enlace de MCL-2024 -->                                                                                  |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                                    | v0.0.4  |    ✓        |
 | <!-- Enlace de joselopez10014 -->                                                                               |         |           |
-| <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  |           |
+|[Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.4  |           |
 | <!-- Enlace de M S C -->                                                                                        |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                               |         |           |
 | <!-- Enlace de N G P -->                                                                                        |         |           |
