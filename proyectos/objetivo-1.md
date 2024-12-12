@@ -39,7 +39,7 @@ iniciales.
 | [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/9)                           | v0.1.3  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                      |         |           |
 | <!-- Enlace de mrh117 -->                                                                        |         |           |
-| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/4)                             | v0.1.3  |           |
+| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/4)                             | v0.1.3  | ✓          |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/5)                     | v0.1.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)                     | v0.1.4  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                                 |         |           |
