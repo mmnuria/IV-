@@ -40,7 +40,7 @@
 | <!-- Enlace de alvarorcs2002 -->                                                                  |         |           |
 | <!-- Enlace de eigenric -->                                                                       |         |           |
 | <!-- Enlace de enger2003 -->                                                                      |         |           |
-| [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/15)                                   | v0.3.1  |           |
+| [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/15)                                   | v0.3.1  |    ✓        |
 | <!-- Enlace de ChinChainis -->                                                                    |         |           |
 | <!-- Enlace de anavaln -->                                                                        |         |           |
 | [Enlace de pablotl0 ](https://github.com/pablotl0/EnviroTrack/pull/18)                            | v0.3.2  |           |
