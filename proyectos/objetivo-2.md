@@ -13,7 +13,7 @@ iniciales.
 | [Enlace de giorgiogiovanni](https://github.com/FabriConde/CLIMB-VR/pull/11)                    | v0.2.1  | ✓         |
 | [Enlace de juanbarearojo](https://github.com/hossam1522/ModaTrack/pull/9)                      | v0.2.4  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                |         |           |
-| <!-- Enlace de jacarmona364 -->                                                                |         |           |
+| [Enlace de jacarmona364](https://github.com/GaelGoncalba/AutoShopping/pull/7)                  | v0.2.2  |           |
 | [Enlace de lmchaves](https://github.com/pablotl0/EnviroTrack/pull/10)                          | v0.2.1  | ✓         |
 | [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/23)                   | v0.2.7  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/Carlosmapego8/GoMountain/pull/12)                   | v0.2.2  |           |
