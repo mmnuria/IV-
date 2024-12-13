@@ -47,7 +47,7 @@ iniciales.
 | [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  | ✓           |
 | <!-- Enlace de enger2003 -->                                                                   |         |           |
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9)         | v0.2.1  | ✓         |
-| <!-- Enlace de ChinChainis -->                                                                 |         |           |
+| [Enlace de ChinChainis](https://github.com/blancagiron/SeguraSenior/pull/8)                    | v0.2.4  |           |
 | <!-- Enlace de anavaln -->                                                                     |         |           |
 | [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)                      | v0.2.7  | ✓         |
 
