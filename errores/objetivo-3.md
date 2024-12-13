@@ -28,3 +28,8 @@
 - Usar herramientas que hacen más cosas, incluso mucho más cosas, que verificar
   la sintaxis. Se trata *simplemente* de ver si el código compila o no compila,
   no si sigue las mejores prácticas y demás.
+
+- En este artículo, como en todos, se trata de que busquéis y trabajéis, no que
+  copiéis lo que han hecho otros, lo que os diga la IA, o lo que salga en la
+  primera página de Google. Si sólo "encuentras" make, mage, task y just, busca
+  un poco más, porque hay muchas más herramientas.
