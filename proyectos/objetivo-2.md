@@ -44,7 +44,7 @@ iniciales.
 | [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12)                  | v0.2.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12)              | v0.2.3  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
-| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  |           |
+| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  | ✓           |
 | <!-- Enlace de enger2003 -->                                                                   |         |           |
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9)         | v0.2.1  | ✓         |
 | <!-- Enlace de ChinChainis -->                                                                 |         |           |
