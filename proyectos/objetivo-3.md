@@ -9,9 +9,9 @@
 | <!-- Enlace de sweetiepitie -->                                                                   |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                   |         |           |
 | <!-- Enlace de lmchaves -->                                                                       |         |           |
-| [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/14)                            | v0.3.3  |  ✓         |
+| [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/14)                            | v0.3.3  | ✓         |
 | <!-- Enlace de FerniCuesta -->                                                                    |         |           |
-| [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/22)                   | v0.3.3  |  ✓          |
+| [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/22)                   | v0.3.3  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/17)                           | v0.3.1  | ✓         |
 | <!-- Enlace de clara99gf -->                                                                      |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                    |         |           |
@@ -22,7 +22,7 @@
 | <!-- Enlace de abbonno -->                                                                        |         |           |
 | <!-- Enlace de oscargr-ugr -->                                                                    |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                            |         |           |
-| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/15) | v0.3.2  | ✓           |
+| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/15) | v0.3.2  | ✓         |
 | <!-- Enlace de Katakuri00 -->                                                                     |         |           |
 | <!-- Enlace de MCL-2024 -->                                                                       |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/15)                     | v0.3.4  | ✓         |

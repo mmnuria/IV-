@@ -19,7 +19,7 @@ iniciales.
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)                           | v0.1.1  | ✓         |
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                            | v0.1.2  |           |
-| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |  ✓        |
+| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  | ✓         |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  | ✓         |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
@@ -39,7 +39,7 @@ iniciales.
 | [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/9)                           | v0.1.3  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                      |         |           |
 | <!-- Enlace de mrh117 -->                                                                        |         |           |
-| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/4)                             | v0.1.3  | ✓          |
+| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/4)                             | v0.1.3  | ✓         |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/5)                     | v0.1.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)                     | v0.1.4  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                                 |         |           |
