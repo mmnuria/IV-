@@ -36,3 +36,13 @@
   del lenguaje, y que *se llama test runner* porque ejecuta los tests, de la
   biblioteca que agrupa los tests y que permite crear *fixtures*. Como se ve,
   son funciones muy diferentes.
+
+## Sobre el código
+
+- Los issues deben plantear problemas, igual que en el objetivo 2. El código
+  resuelve el problema, y para ver si se ha resuelto, deben usarse los tests.
+  - Un issue no puede ser "hacer tests"
+  - No se puede plantear "escribir código que haga esto" como issue. Debe
+    plantearse el problema que debe resolverse.
+- Un poco de trabajo a la hora de plantear los issues evita mucho trabajo más
+  adelante escribiendo tests y por supuesto revisando el código.
