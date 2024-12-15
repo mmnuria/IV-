@@ -3,7 +3,7 @@
 
 | URL                                                                                                | Versión | Alcanzado |
 |----------------------------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)|   v0.4.1      |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)|   v0.4.2      |           |
 | <!-- Enlace de giorgiogiovanni -->                                                                 |         |           |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/27)                    | v0.4.4  |           |
 | <!-- Enlace de sweetiepitie -->                                                                    |         |           |
