@@ -25,6 +25,14 @@ El principal error es que la propia persona que lleva el repositorio no
    issue. Si algunos de estos elementos no se cumple, *el código es
    incorrecto*.
 
+- Los issues deben plantear *un problema*. No, ¿qué es X? no es un problema,
+  es una simple pregunta, y se puede solucionar simplemente creando algo que se
+  llame X. Plantear un issue para cada objeto puede ser un error, porque se
+  acaba creando un objeto para cada issue, y eso es ponerle nombre a las cosas,
+  no modelizar. Aunque como primera aproximación al problema planteado en la HU
+  pueda ser válido, solo lo será si efectivamente se plantea un problema *real*
+  (y se explica en el mensaje de commit la solución).
+
 - El concepto de producto mínimamente viable es aplicable en este caso. Se trata
   de crear sólo y exclusivamente lo que diga el milestone
   correspondiente. Generalmente, se tratará de un modelo del problema. ¿Las
