@@ -3,9 +3,9 @@
 
 | URL                                                                                                | Versión | Alcanzado |
 |----------------------------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)|   v0.4.3      |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)                          | v0.4.3  |           |
 | <!-- Enlace de giorgiogiovanni -->                                                                 |         |           |
-| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/27)                    | v0.4.4  |  ✓          |
+| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/27)                    | v0.4.4  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                    |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                    |         |           |
 | <!-- Enlace de lmchaves -->                                                                        |         |           |
@@ -35,7 +35,7 @@
 | <!-- Enlace de Pablorc7 -->                                                                        |         |           |
 | <!-- Enlace de mrh117 -->                                                                          |         |           |
 | <!-- Enlace de LuRDR -->                                                                           |         |           |
-| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/26)                      | v0.4.4  |           |
+| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/26)                      | v0.4.4  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/22)                      | v0.4.5  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                                   |         |           |
 | <!-- Enlace de eigenric -->                                                                        |         |           |
