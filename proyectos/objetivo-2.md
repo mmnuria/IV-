@@ -24,7 +24,7 @@ iniciales.
 | <!-- Enlace de SantiGarvin -->                                                                 |         |           |
 | [Enlace de evaanngiil](https://github.com/lmchaves/OrganizarTaller/pull/14)                    | v0.2.4  | ✓         |
 | [Enlace de blancagiron](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/11) | v0.2.2  | ✓         |
-| <!-- Enlace de GaelGoncAlba -->                                                                |         |           |
+| [Enlace de GaelGoncalba](https://github.com/jacarmona364/Riskalc/pull/8)                       | v0.2.5  |           |
 | [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)                 | v0.2.4  | ✓         |
 | <!-- Enlace de oscargr-ugr -->                                                                 |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                         |         |           |
@@ -44,10 +44,10 @@ iniciales.
 | [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12)                  | v0.2.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12)              | v0.2.3  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
-| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  | ✓           |
+| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  | ✓         |
 | <!-- Enlace de enger2003 -->                                                                   |         |           |
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9)         | v0.2.1  | ✓         |
-| <!-- Enlace de ChinChainis -->                                                                 |         |           |
+| [Enlace de ChinChainis](https://github.com/blancagiron/SeguraSenior/pull/8)                    | v0.2.4  | ✓         |
 | <!-- Enlace de anavaln -->                                                                     |         |           |
 | [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)                      | v0.2.7  | ✓         |
 

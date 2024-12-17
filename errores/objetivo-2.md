@@ -14,7 +14,7 @@ El principal error es que la propia persona que lleva el repositorio no
   menos.
 
 - Este código va a tener que usarlo esa persona. Si no hace aunque sea un mínimo
-  intento mental de ver cómo va a usarlo para su objetivo 4, es muy probable que
+  intento mental (o físico) de ver cómo va a usarlo para su objetivo 4, es muy probable que
   tenga que rehacer gran parte del código (y en fechas posiblemente poco
   convenientes).
 
@@ -24,6 +24,14 @@ El principal error es que la propia persona que lleva el repositorio no
    usuario, y todos los commits deben estar relacionados con un
    issue. Si algunos de estos elementos no se cumple, *el código es
    incorrecto*.
+
+- Los issues deben plantear *un problema*. No, ¿qué es X? no es un problema,
+  es una simple pregunta, y se puede solucionar simplemente creando algo que se
+  llame X. Plantear un issue para cada objeto puede ser un error, porque se
+  acaba creando un objeto para cada issue, y eso es ponerle nombre a las cosas,
+  no modelizar. Aunque como primera aproximación al problema planteado en la HU
+  pueda ser válido, solo lo será si efectivamente se plantea un problema *real*
+  (y se explica en el mensaje de commit la solución).
 
 - El concepto de producto mínimamente viable es aplicable en este caso. Se trata
   de crear sólo y exclusivamente lo que diga el milestone
@@ -64,3 +72,10 @@ El principal error es que la propia persona que lleva el repositorio no
   permiten modelizar mucho mejor este tipo de dato.
   - En general, casi siempre que vayáis a crear un array de objetos, comprobad
     dos y tres veces si esa es la mejor forma de hacer las cosas.
+
+- Si para inicializar un objeto de una clase le das *todos* los atributos que
+  tiene, ¿quién genera esos atributos para empezar?
+  - En general, los objetos valor sí los necesitarán todos, porque no suelen
+    tener mucha lógica de negocio interna (salvo quizá validación)
+  - Pero para las entidades ¿quién inicializa esos arrays o lo que sea que se le
+    van dando?

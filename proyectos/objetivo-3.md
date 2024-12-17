@@ -8,7 +8,7 @@
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/21)                   | v0.3.3  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                   |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                   |         |           |
-| <!-- Enlace de lmchaves -->                                                                       |         |           |
+|[ Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/23)                         | v0.3.1  |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/14)                            | v0.3.3  | ✓         |
 | <!-- Enlace de FerniCuesta -->                                                                    |         |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/22)                   | v0.3.3  | ✓         |
@@ -27,7 +27,7 @@
 | <!-- Enlace de MCL-2024 -->                                                                       |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/15)                     | v0.3.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                 |         |           |
-| <!-- Enlace de mmnuria -->                                                                        |         |           |
+| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/19)                    | v0.3.2  |           |
 | <!-- Enlace de M S C -->                                                                          |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                 |         |           |
 | [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/16)                    | v0.3.2  |           |
