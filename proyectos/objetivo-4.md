@@ -11,7 +11,7 @@
 | <!-- Enlace de lmchaves -->                                                                        |         |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/18)                             | v0.4.6  |           |
 | <!-- Enlace de FerniCuesta -->                                                                     |         |           |
-| <!-- Enlace de adiazcencillo -->                                                                   |         |           |
+| [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/32)                    | v0.4.1  |           |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/22)                            | v0.4.2  | ✓         |
 | <!-- Enlace de clara99gf -->                                                                       |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                     |         |           |
