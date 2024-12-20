@@ -23,7 +23,7 @@
 | lmchaves          | pablotl0                 |
 | pablotl0          | evaanngiil               |
 | Carlosmapego8     | FerniCuesta              |
-| FerniCuesta       | Carlosmapego8            |
+| joselopez10014       | Carlosmapego8            |
 | jacarmona364      | GaelGoncalba             |
 | GaelGoncalba      | jacarmona364             |
 | Katakuri00        | Antoniogm03              |
