@@ -8,7 +8,7 @@
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/27)                    | v0.4.4  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                    |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                    |         |           |
-| <!-- Enlace de lmchaves -->                                                                        |         |           |
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/25)                          | v0.4.1  |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/18)                             | v0.4.6  |           |
 | <!-- Enlace de FerniCuesta -->                                                                     |         |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/32)                    | v0.4.2  |           |
