@@ -16,7 +16,7 @@
 | <!-- Enlace de clara99gf -->                                                                       |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                     |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                     |         |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.1  |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.2  |           |
 | <!-- Enlace de blancagiron -->                                                                     |         |           |
 | <!-- Enlace de GaelGoncalba -->                                                                    |         |           |
 | <!-- Enlace de abbonno -->                                                                         |         |           |
