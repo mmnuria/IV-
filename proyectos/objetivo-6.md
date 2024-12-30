@@ -35,7 +35,7 @@
 | <!-- Enlace de mrh117 -->                                                     |         |           |
 | <!-- Enlace de LuRDR -->                                                      |         |           |
 | <!-- Enlace de MarioRgzLpz -->                                                |         |           |
-| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/32) | v0.6.2  | ✓         |
+| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/32) | v0.6.2  |           |
 | <!-- Enlace de alvarorcs2002 -->                                              |         |           |
 | <!-- Enlace de eigenric -->                                                   |         |           |
 | <!-- Enlace de enger2003 -->                                                  |         |           |
