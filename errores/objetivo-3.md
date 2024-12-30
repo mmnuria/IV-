@@ -27,6 +27,11 @@
   las cosas y se tendrá que usar algún otro criterio adicional o simplemente
   elegir uno cualquiera.
 
+- Criterios que aparentemente son objetivos como la "frecuencia de commits" se
+  convierten en una simple excusa para poner el que más te guste. No tienes
+  forma de medir la frecuencia de forma objetiva, y si la tuvieras, ¿qué tiene
+  que ver con que lo elijas o no?
+
 ## Sobre las herramientas
 
 - En este objetivo, como en todos, se trata de que busquéis y trabajéis, no que
