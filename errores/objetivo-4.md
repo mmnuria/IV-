@@ -1,5 +1,15 @@
 # Errores frecuentes - Objetivo 4
 
+El código se debe desarrollar siguiendo la metodología que se ha venido
+comentando desde el objetivo 2. Si no se hace así, el código es incorrecto. Eso
+quiere decir que todos los issues deben estar relacionados con una historia de
+usuario, y deben estar también asignados a un milestone. Olvidar hacerlo así
+indica que el estudiante no se preocupa por la metodología, simplemente de hacer
+código para "pasar el objetivo". Y este objetivo va *de usar la metodología*, no
+de producir código.
+
+## Sobre las diferentes herramientas
+
 - Hablar de "herramientas de test" sin especificar qué es lo que hacen esas
   herramientas de test. No existen las herramientas de test, existen
   herramientas que llevan a cabo diferentes funcionalidades relacionadas con los
@@ -11,17 +21,6 @@
   de IA. Como se detecte el uso de herramientas de IA tanto en los criterios
   como en la lista de posibles herramientas, se dejará de corregir y se
   retrasará la corrección de la siguiente versión.
-
-- TDD no sólo es una metodología para escribir tests, es una para modularizar el
-  código de forma que sea fácil de testear y para que sea más fácil de entender,
-  refactorizar y evolucionar. Para hacer esto lo más importante, entre los
-  principios SOLID, es la S de *Separation of concerns*: se trata de que cada
-  función haga una cosa y solo una. Eso hace más fácil testear esa única cosa.
-  - Si te preguntas si una función hace una sola cosa y solo una, en el momento
-    que tengas más de un bucle o más de un `if` y sobre todo `if`s anidados, ya
-    estás haciendo más de una cosa.
-
-## Sobre las diferentes herramientas
 
 - Listar ventajas y desventajas no es un proceso objetivo, y sobre todo no tiene
   nada que ver con los criterios que se hayan elegido. Si las desventajas son
@@ -46,3 +45,12 @@
     plantearse el problema que debe resolverse.
 - Un poco de trabajo a la hora de plantear los issues evita mucho trabajo más
   adelante escribiendo tests y por supuesto revisando el código.
+
+- TDD no sólo es una metodología para escribir tests, es una para modularizar el
+  código de forma que sea fácil de testear y para que sea más fácil de entender,
+  refactorizar y evolucionar. Para hacer esto lo más importante, entre los
+  principios SOLID, es la S de *Separation of concerns*: se trata de que cada
+  función haga una cosa y solo una. Eso hace más fácil testear esa única cosa.
+  - Si te preguntas si una función hace una sola cosa y solo una, en el momento
+    que tengas más de un bucle o más de un `if` y sobre todo `if`s anidados, ya
+    estás haciendo más de una cosa.
