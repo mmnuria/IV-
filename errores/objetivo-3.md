@@ -1,5 +1,15 @@
 # Errores comunes objetivo 3
 
+Un error demasiado común es elegir algo y luego "poner criterios" para
+justificar que se ha elegido esa herramienta. Rara vez va a salir bien, porque
+en ningún momento se van a poner las verdaderas razones por la que se ha
+elegido; y si no hay ninguna razón, es imposible que pongas diferentes criterios
+porque o no van a coincidir en esa herramienta o simplemente van a ser criterios
+absurdos.
+
+En este objetivo hay que aprender a seleccionar y justificarlo. Hacer cualquier
+otra cosa no es emplear el tiempo de la forma óptima.
+
 ## Sobre los criterios
 
 - Si la elección la pudiera hacer por ti una IA, la IA tomará las
