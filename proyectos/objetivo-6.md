@@ -4,7 +4,7 @@
 |-------------------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de juanmaaf -->                                                   |         |           |
 | <!-- Enlace de giorgiogiovanni -->                                            |         |           |
-| <!-- Enlace de juanbarearojo -->                                              |         |           |
+| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/41) | v0.6.1        |           |
 | <!-- Enlace de sweetiepitie -->                                               |         |           |
 | <!-- Enlace de jacarmona364 -->                                               |         |           |
 | <!-- Enlace de lmchaves -->                                                   |         |           |
