@@ -11,7 +11,7 @@
 | <!-- Enlace de FabriConde -->          |         |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
-| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/68)          |    v0.9.1     |           |
+| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/68)          |    v0.9.2     |           |
 | <!-- Enlace de clara99gf -->           |         |           |
 | <!-- Enlace de Antoniogm03 -->         |         |           |
 | <!-- Enlace de SantiGarvin -->         |         |           |
