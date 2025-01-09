@@ -34,7 +34,7 @@
 | <!-- Enlace de Pablorc7 -->                                                     |         |           |
 | <!-- Enlace de mrh117 -->                                                       |         |           |
 | <!-- Enlace de LuRDR -->                                                        |         |           |
-| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/39)   | v0.6.6  |           |
+| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/39)   | v0.6.6  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/32)   | v0.6.2  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                |         |           |
 | <!-- Enlace de eigenric -->                                                     |         |           |
