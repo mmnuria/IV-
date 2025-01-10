@@ -32,7 +32,7 @@ iniciales.
 | <!-- Enlace de Katakuri00 -->                                                                  |         |           |
 | <!-- Enlace de MCL-2024 -->                                                                    |         |           |
 | [Enlace de JLombar](https://github.com/adiazcencillo/GranadaInfo/pull/11)                      | v0.2.2  | ✓         |
-| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/8)             | v0.2.2  |           |
+| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/8)             | v0.2.3  |           |
 | [Enlace de mmnuria](https://github.com/abbonno/healthScheduler/pull/10)                        | v0.2.6  | ✓         |
 | <!-- Enlace de M S C -->                                                                       |         |           |
 | <!-- Enlace de javiernavacapa -->                                                              |         |           |
