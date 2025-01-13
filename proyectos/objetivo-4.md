@@ -19,7 +19,7 @@
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.3  |           |
 | <!-- Enlace de blancagiron -->                                                                     |         |           |
 | <!-- Enlace de GaelGoncalba -->                                                                    |         |           |
-| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/23)                            | v0.4.3  |           |
+| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/23)                            | v0.4.4  |           |
 | <!-- Enlace de oscargr-ugr -->                                                                     |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                             |         |           |
 | [Enlace de Matteo Imbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/21) | v0.4.4  |           |
