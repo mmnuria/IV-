@@ -43,6 +43,11 @@ El principal error es que la propia persona que lleva el repositorio no
   la idea subjetiva que tengas tú de ello). Es decidir cómo se gestionan las
   diferentes cosas modelizadas, y en particular, decidir qué es un objeto valor
   y qué es una entidad.
+  - También es un error crear una clase que tenga como atributos la entrada y la
+  salida de una función; no se trata de poner juntas cosas que parezca que están
+  relacionadas, sino de expresar realmente las relaciones entre ellas a partir
+  del modelo. ¿Una entrada y una salida de una función tienen alguna relación
+  realmente?
 
 - Código cuyo mensaje de commit referencie más de un issue y modifique más de un
   fichero es automáticamente inválido y hay que reescribirlo. El único código
