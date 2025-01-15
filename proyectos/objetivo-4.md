@@ -26,7 +26,7 @@
 | <!-- Enlace de Katakuri00 -->                                                                      |         |           |
 | <!-- Enlace de MCL-2024 -->                                                                        |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/20)                      | v0.4.2  | ✓         |
-| <!-- Enlace de joselopez10014 -->                                                                  |         |           |
+| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/14)                | v0.4.2  |           |
 | [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/25)                     | v0.4.5  |           |
 | <!-- Enlace de M S C -->                                                                           |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                  |         |           |
