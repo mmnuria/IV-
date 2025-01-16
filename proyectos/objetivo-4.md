@@ -41,6 +41,6 @@
 | <!-- Enlace de eigenric -->                                                                        |         |           |
 | <!-- Enlace de enger2003 -->                                                                       |         |           |
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/24)                                    | v0.4.1  |           |
-| <!-- Enlace de ChinChainis -->                                                                     |         |           |
+| [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/30)     | v0.4.1  |           |
 | <!-- Enlace de anavaln -->                                                                         |         |           |
 | <!-- Enlace de pablotl0 -->                                                                        |         |           |
