@@ -8,6 +8,12 @@ indica que el estudiante no se preocupa por la metodología, simplemente de hace
 código para "pasar el objetivo". Y este objetivo va *de usar la metodología*, no
 de producir código.
 
+- No se debe usar *ninguna* biblioteca externa aparte de las de test. Se trata
+  de testear el código propio. Ni siquiera se debe usar como parte del test
+  aparte de las propias bibliotecas de test; si lo haces, tendrás que mostrar,
+  como cualquier otra herramienta, que conoces las alternativas y que tienes los
+  criterios apropiados para seleccionarla.
+
 ## Sobre las diferentes herramientas
 
 - Hablar de "herramientas de test" sin especificar qué es lo que hacen esas
