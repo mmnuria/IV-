@@ -17,7 +17,7 @@
 | <!-- Enlace de Antoniogm03 -->                                                                     |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                     |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.3  |           |
-| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/42)                       | v0.4.1  |           |
+| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/42)                       | v0.4.2  |           |
 | <!-- Enlace de GaelGoncalba -->                                                                    |         |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/23)                            | v0.4.4  |           |
 | <!-- Enlace de oscargr-ugr -->                                                                     |         |           |
