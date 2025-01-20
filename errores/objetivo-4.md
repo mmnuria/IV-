@@ -60,3 +60,9 @@ de producir código.
   - Si te preguntas si una función hace una sola cosa y solo una, en el momento
     que tengas más de un bucle o más de un `if` y sobre todo `if`s anidados, ya
     estás haciendo más de una cosa.
+
+- Los tests deben estar *siempre* relacionados con las historias de usuario. Un
+  PMV debe testear *solo* los diferentes problemas de la historia de usuario. Si
+  te pones a testear todos los aspectos del programa como si hace una suma bien
+  o si es capaz de llamar a un constructor correctamente estás solamente creando
+  ruido para la persona que revisa.
