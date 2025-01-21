@@ -8,6 +8,12 @@ indica que el estudiante no se preocupa por la metodología, simplemente de hace
 código para "pasar el objetivo". Y este objetivo va *de usar la metodología*, no
 de producir código.
 
+- No se debe usar *ninguna* biblioteca externa aparte de las de test. Se trata
+  de testear el código propio. Ni siquiera se debe usar como parte del test
+  aparte de las propias bibliotecas de test; si lo haces, tendrás que mostrar,
+  como cualquier otra herramienta, que conoces las alternativas y que tienes los
+  criterios apropiados para seleccionarla.
+
 ## Sobre las diferentes herramientas
 
 - Hablar de "herramientas de test" sin especificar qué es lo que hacen esas
@@ -54,3 +60,28 @@ de producir código.
   - Si te preguntas si una función hace una sola cosa y solo una, en el momento
     que tengas más de un bucle o más de un `if` y sobre todo `if`s anidados, ya
     estás haciendo más de una cosa.
+
+- Los tests deben estar *siempre* relacionados con las historias de usuario. Un
+  PMV debe testear *solo* los diferentes problemas de la historia de usuario. Si
+  te pones a testear todos los aspectos del programa como si hace una suma bien
+  o si es capaz de llamar a un constructor correctamente estás solamente creando
+  ruido para la persona que revisa.
+
+- Cuando veáis que estáis devolviendo desde una función *de un tipo, clase o
+  struct* una estructura de datos compleja **especialmente si se trata de un
+  agregado de ese mismo tipo**, **el modelo sobre el que estáis trabajando es
+  incorrecto** porque estáis trabajando sobre lo que en realidad debería ser una
+  entidad.
+  - Habitualmente esto se corresponde con objetivos que están desarrollados con
+    issues incorrectos, no asignados a ninguna HU, sin ningún problema planteado
+    o simplemente genéricos tipo "desarrollar lógica de negocio". Esta *nunca*
+    es la forma de trabajar, y da lugar a muchos ciclos de revisión,
+    frustración, y simplemente falta de entendimiento del mecanismo de
+    desarrollo ágil
+
+- Si se os hace algún comentario sobre el código, como que apliquéis el SRP o
+  DRY o buenas prácticas con identificadores o lo que sea, **por favor revisad
+  todo el código buscando posibles errores del mismo tipo**. En muchos casos
+  puede haber sido el último comentarios que se ha hecho antes de enviar la
+  review, pero eso no quiere decir que sea el único. Lo que se busca *siempre*
+  es que entendáis los conceptos y que los apliquéis.

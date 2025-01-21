@@ -3,13 +3,13 @@
 
 | URL                                                                             | Versión | Alcanzado |
 |---------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/32) |  v0.5.11       |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/32)       | v0.5.11 | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                              |         |           |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/34) | v0.5.5  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                 |         |           |
 | <!-- Enlace de jacarmona364 -->                                                 |         |           |
 | [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/44)       | v0.5.4  |           |
-| <!-- Enlace de FabriConde -->                                                   |         |           |
+| [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/49)          | v0.5.4  |           |
 | <!-- Enlace de FerniCuesta -->                                                  |         |           |
 | <!-- Enlace de adiazcencillo -->                                                |         |           |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/38)         | v0.5.3  | ✓         |
@@ -31,7 +31,7 @@
 | <!-- Enlace de M S C -->                                                        |         |           |
 | <!-- Enlace de javiernavacapa -->                                               |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                |         |           |
-| <!-- Enlace de Mario25402 -->                                                   |         |           |
+| [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/35)         | v0.5.5  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                     |         |           |
 | <!-- Enlace de mrh117 -->                                                       |         |           |
 | <!-- Enlace de LuRDR -->                                                        |         |           |

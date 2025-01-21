@@ -3,12 +3,12 @@
 
 | URL                                                                                                | Versión | Alcanzado |
 |----------------------------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)                          | v0.4.3  |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/17)                          | v0.4.3  | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                                                 |         |           |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/27)                    | v0.4.4  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                    |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                    |         |           |
-| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/25)                          | v0.4.1  |           |
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/25)                          | v0.4.1  | ✓         |
 | [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/18)                             | v0.4.6  |           |
 | <!-- Enlace de FerniCuesta -->                                                                     |         |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/32)                    | v0.4.2  |           |
@@ -16,8 +16,8 @@
 | <!-- Enlace de clara99gf -->                                                                       |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                     |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                     |         |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.3  |           |
-| <!-- Enlace de blancagiron -->                                                                     |         |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/26)                        | v0.4.3  | ✓         |
+| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/42)                       | v0.4.2  |           |
 | <!-- Enlace de GaelGoncalba -->                                                                    |         |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/23)                            | v0.4.4  |           |
 | <!-- Enlace de oscargr-ugr -->                                                                     |         |           |
@@ -41,6 +41,6 @@
 | <!-- Enlace de eigenric -->                                                                        |         |           |
 | <!-- Enlace de enger2003 -->                                                                       |         |           |
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/24)                                    | v0.4.1  |           |
-| <!-- Enlace de ChinChainis -->                                                                     |         |           |
+| [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/30)     | v0.4.5  |           |
 | <!-- Enlace de anavaln -->                                                                         |         |           |
 | <!-- Enlace de pablotl0 -->                                                                        |         |           |
