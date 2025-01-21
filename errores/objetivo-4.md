@@ -66,3 +66,15 @@ de producir código.
   te pones a testear todos los aspectos del programa como si hace una suma bien
   o si es capaz de llamar a un constructor correctamente estás solamente creando
   ruido para la persona que revisa.
+
+- Cuando veáis que estáis devolviendo desde una función *de un tipo, clase o
+  struct* una estructura de datos compleja **especialmente si se trata de un
+  agregado de ese mismo tipo**, **el modelo sobre el que estáis trabajando es
+  incorrecto** porque estáis trabajando sobre lo que en realidad debería ser una
+  entidad.
+  - Habitualmente esto se corresponde con objetivos que están desarrollados con
+    issues incorrectos, no asignados a ninguna HU, sin ningún problema planteado
+    o simplemente genéricos tipo "desarrollar lógica de negocio". Esta *nunca*
+    es la forma de trabajar, y da lugar a muchos ciclos de revisión,
+    frustración, y simplemente falta de entendimiento del mecanismo de
+    desarrollo ágil
