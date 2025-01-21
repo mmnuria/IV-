@@ -78,3 +78,10 @@ de producir código.
     es la forma de trabajar, y da lugar a muchos ciclos de revisión,
     frustración, y simplemente falta de entendimiento del mecanismo de
     desarrollo ágil
+
+- Si se os hace algún comentario sobre el código, como que apliquéis el SRP o
+  DRY o buenas prácticas con identificadores o lo que sea, **por favor revisad
+  todo el código buscando posibles errores del mismo tipo**. En muchos casos
+  puede haber sido el último comentarios que se ha hecho antes de enviar la
+  review, pero eso no quiere decir que sea el único. Lo que se busca *siempre*
+  es que entendáis los conceptos y que los apliquéis.
