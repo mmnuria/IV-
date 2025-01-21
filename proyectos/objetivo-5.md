@@ -5,7 +5,7 @@
 |---------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/32) |  v0.5.11       |           |
 | <!-- Enlace de giorgiogiovanni -->                                              |         |           |
-| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/34) | v0.5.4  | ✓         |
+| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/34) | v0.5.5  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                 |         |           |
 | <!-- Enlace de jacarmona364 -->                                                 |         |           |
 | [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/44)       | v0.5.4  |           |
