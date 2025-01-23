@@ -85,3 +85,17 @@ de producir código.
   puede haber sido el último comentarios que se ha hecho antes de enviar la
   review, pero eso no quiere decir que sea el único. Lo que se busca *siempre*
   es que entendáis los conceptos y que los apliquéis.
+
+- El principio de responsabilidad única no solo te fuerza a dividir una función
+  en varias partes, sino a repensar el flujo de trabajo y de datos de forma que
+  se divida en partes testeables de forma independiente, cada una de las cuales
+  haga una sola cosa. El patrón contrario (y error habitual) es una función que
+  tiene bucles que llaman a otra función que a su vez llama a otra función
+  (desgraciadamente, muy a menudo es la opción que te dan las AIs
+  generativas). La opción testeable y que sigue las buenas prácticas es pensar
+  en datos de entrada que sufren una serie de transformaciones y al final
+  producen una salida. **Cada transformación es una responsabilidad**, y debería
+  ser individualizada y testeada de forma individual. Es la única forma de
+  entender bien la lógica de negocio, cómo encajan las diferentes piezas y cómo
+  se pued combinar todo de forma que se obtenga una aplicación fácilmente
+  testeable.
