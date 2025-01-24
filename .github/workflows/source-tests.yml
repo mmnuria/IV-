@@ -252,7 +252,7 @@ jobs:
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v4
-      - uses: awalsh128/cache-apt-pkgs-action@v1
+      - uses: awalsh128/cache-apt-pkgs-action@latest
         with:
           packages: liblwp-protocol-https-perl
           version: 1.0
