@@ -8,6 +8,14 @@ indica que el estudiante no se preocupa por la metodología, simplemente de hace
 código para "pasar el objetivo". Y este objetivo va *de usar la metodología*, no
 de producir código.
 
+- El objetivo de una metodología basada en issues que describen problemas es
+  tanto ayudar a sistematizar la solución a las necesidades del usuario, como
+  poder por la parte del usuario crear código y por la parte del revisor
+  comprobar que el código es correcto. **Si un issue no ayuda a crear código,
+  sino que es una obligación se está haciendo mal** y sólo está generando
+  trabajo inútil por parte de todas partes implicadas (estudiante, revisores, y
+  la IA que es la que de verdad esté generando el código).
+
 - No se debe usar *ninguna* biblioteca externa aparte de las de test. Se trata
   de testear el código propio. Ni siquiera se debe usar como parte del test
   aparte de las propias bibliotecas de test; si lo haces, tendrás que mostrar,
