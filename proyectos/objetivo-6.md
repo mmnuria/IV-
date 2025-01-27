@@ -26,7 +26,7 @@
 | <!-- Enlace de MCL-2024 -->                                                     |         |           |
 | <!-- Enlace de JLombar -->                                                      |         |           |
 | <!-- Enlace de joselopez10014 -->                                               |         |           |
-| <!-- Enlace de mmnuria -->                                                      |         |           |
+| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/36)  | v0.6.1  |           |
 | <!-- Enlace de M S C -->                                                        |         |           |
 | <!-- Enlace de javiernavacapa -->                                               |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                |         |           |
