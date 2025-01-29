@@ -17,7 +17,7 @@
 | <!-- Enlace de Antoniogm03 -->                                                  |         |           |
 | <!-- Enlace de SantiGarvin -->                                                  |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/35)     | v0.5.11  |           |
-| <!-- Enlace de blancagiron -->                                                  |         |           |
+| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/54)    | v0.5.1   |           |
 | <!-- Enlace de GaelGoncalba -->                                                 |         |           |
 | <!-- Enlace de abbonno -->                                                      |         |           |
 | <!-- Enlace de oscargr-ugr -->                                                  |         |           |
